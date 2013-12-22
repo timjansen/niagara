@@ -1,0 +1,18 @@
+{
+title: 'Impressum - Niagara.js',
+section: about,
+main: `<div>
+<h1><a href="http://en.wikipedia.org/wiki/Impressum">Impressum</a> / Legal Notice</h1>
+Responsible for the content on niagarajs.com and affiliated sites:<br/>
+Tim Jansen<br/>
+Kuehlwetterstr. 47<br/>
+40239 Duesseldorf<br/>
+Germany<br/><br/>
+Mail: tim@t<span style="display: none">got you</span>jansen.de (preferred; use "niagara" in the subject to avoid the spam filter)<br/>
+Phone: +49 211 58007050
+  </div>
+  
+  `
+}
+
+  

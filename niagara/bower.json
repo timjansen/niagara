@@ -1,0 +1,24 @@
+{
+  "name": "Niagara",
+  "version": "0.0.0",
+  "homepage": "http://niagarajs.com",
+  "authors": [
+    "Tim Jansen <tim@tjansen.de>"
+  ],
+  "description": "Niagara is a MOVE-based, next-gen MVC framework for JavaScript",
+  "main": "dist/niagara.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tmp",
+    "srcContent",
+    "WebContent",
+    "srcContent",
+    "build",
+    "src",
+    "gruntfile.js",
+    "package.json"
+  ]
+}
